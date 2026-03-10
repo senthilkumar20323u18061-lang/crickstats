@@ -1,5 +1,5 @@
 # crickstats
-"C:\Users\acer\Videos\Captures\crickstats video.mp4"
+
 https://orgfarm-d0a200c91b-dev-ed.develop.lightning.force.com/lightning/o/Dashboard/home?queryScope=mru
 https://orgfarm-d0a200c91b-dev-ed.develop.lightning.force.com/lightning/page/home
 https://orgfarm-d0a200c91b-dev-ed.develop.lightning.force.com/lightning/o/Report/home?queryScope=mru
